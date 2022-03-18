@@ -2,3 +2,89 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+    <url>
+        <loc>https://capitaltexasshine.com/index</loc>
+        <lastmod>2022-03-18</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://capitaltexasshine.com/store</loc>
+        <lastmod>2022-03-18</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://capitaltexasshine.com/reviews</loc>
+        <lastmod>2022-03-18</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://capitaltexasshine.com/gallery-All</loc>
+        <lastmod>2022-03-18</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://capitaltexasshine.com/gallery-Exterior</loc>
+        <lastmod>2022-03-18</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://capitaltexasshine.com/gallery-Interior</loc>
+        <lastmod>2022-03-18</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://capitaltexasshine.com/service-Interior-Detailing</loc>
+        <lastmod>2022-03-18</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://capitaltexasshine.com/service-Maintenance-Wash</loc>
+        <lastmod>2022-03-18</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://capitaltexasshine.com/service-Exterior-Detailing</loc>
+        <lastmod>2022-03-18</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://capitaltexasshine.com/service-Full-Detail-Service</loc>
+        <lastmod>2022-03-18</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://capitaltexasshine.com/service-Paint-Restoration</loc>
+        <lastmod>2022-03-18</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://capitaltexasshine.com/service-Waxing-Services</loc>
+        <lastmod>2022-03-18</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+</urlset>
